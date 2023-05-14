@@ -1,0 +1,73 @@
+.crear-pedido-container {
+  padding      : 20px;
+}
+
+.crear-pedido-container h2 {
+  font-size    : 24px;
+  margin-bottom: 20px;
+}
+
+.crear-pedido-container form {
+  display       : flex;
+  flex-direction: column;
+}
+
+.crear-pedido-container .form-group {
+  margin-bottom: 10px;
+}
+
+.crear-pedido-container label {
+  font-weight: bold;
+}
+
+.crear-pedido-container select {
+  width        : 100%;
+  padding      : 5px;
+  border       : 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.price {
+  margin: 10px 0px;
+  ;
+}
+
+.price input {
+  width        : 97%;
+  padding      : 5px;
+  border       : 1px solid #ccc;
+  border-radius: 3px;
+  margin-top   : 5px;
+}
+
+.crear-pedido-container button {
+  padding         : 8px 16px;
+  background-color: #007bff;
+  color           : #fff;
+  border          : none;
+  border-radius   : 3px;
+  cursor          : pointer;
+}
+
+.crear-pedido-container button:hover {
+  background-color: #0056b3;
+}
+
+.camp-select {
+  margin-top   : 5px;
+  margin-bottom: 5px;
+}
+
+.camp-select div {
+  margin-top   : 10px;
+  margin-bottom: 10px;
+  display      : grid;
+}
+
+.camp-select div input {
+  margin       : 10px 0px;
+  display      : grid;
+  padding      : 5px;
+  border       : 1px solid #ccc;
+  border-radius: 3px;
+}

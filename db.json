@@ -1,0 +1,35 @@
+{
+  "articulos": [
+    {
+      "referencia": "REF001",
+      "nombre": "Articulo 1",
+      "precioSinImpuestos": "19.99",
+      "id": 1
+    },
+    {
+      "referencia": "REF002",
+      "nombre": "Articulo 2",
+      "precioSinImpuestos": "29.99",
+      "id": 2
+    },
+    {
+      "referencia": "",
+      "nombre": "",
+      "precioSinImpuestos": "",
+      "id": 3
+    }
+  ],
+  "pedidos": [
+    {
+      "items": [
+        {
+          "referencia": "REF001",
+          "cantidad": "3"
+        }
+      ],
+      "precioTotalSinImpuestos": "12",
+      "precioTotalConImpuestos": "34",
+      "id": 1
+    }
+  ]
+}

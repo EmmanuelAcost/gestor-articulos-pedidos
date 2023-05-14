@@ -1,0 +1,23 @@
+/* styles.css */
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px;;
+    z-index: 99;
+    background-color: transparent
+  }
+  
+  .logo {
+    width: 60px;
+  }
+  
+  .language-select {
+    width: 120px;
+  }
+  

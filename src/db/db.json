@@ -1,0 +1,60 @@
+{
+  "articulos": [
+    {
+      "referencia": "REF001",
+      "nombre": "Articulo 1",
+      "precioSinImpuestos": "19.99",
+      "id": 1
+    },
+    {
+      "referencia": "REF002",
+      "nombre": "Articulo 2",
+      "precioSinImpuestos": "29.99",
+      "id": 2
+    },
+    {
+      "referencia": "REF003",
+      "nombre": "Articulo 3",
+      "precioSinImpuestos": "39.99",
+      "id": 3
+    },
+    {
+      "referencia": "REF004",
+      "nombre": "Articulo 4",
+      "precioSinImpuestos": "49.99",
+      "id": 4
+    }
+  ],
+  "pedidos": [
+    {
+      "items": [
+        {
+          "referencia": "REF001",
+          "cantidad": "3"
+        },
+        {
+          "referencia": "REF003",
+          "cantidad": "555"
+        }
+      ],
+      "precioTotalSinImpuestos": "3",
+      "precioTotalConImpuestos": "4",
+      "id": 1
+    },
+    {
+      "items": [
+        {
+          "referencia": "REF001",
+          "cantidad": "2"
+        },
+        {
+          "referencia": "REF002",
+          "cantidad": "3"
+        }
+      ],
+      "precioTotalSinImpuestos": "23",
+      "precioTotalConImpuestos": "45",
+      "id": 2
+    }
+  ]
+}

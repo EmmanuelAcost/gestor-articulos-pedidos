@@ -1,0 +1,31 @@
+{
+    "home":{
+        "titulo":"Bienvenida a centribal",
+        "btnPedido":"Pedido",
+        "btnArticulo":"Articulo"
+    },
+    "listarPedidos": {
+        "titulo": "Lista de Pedidos",
+        "crearPedido": "Crear Pedido"
+    },
+    "columnasPedidos": {
+        "id": "ID",
+        "precioTotalSinImpuestos": "Precio Total (sin impuestos)",
+        "precioTotalConImpuestos": "Precio Total (con impuestos)",
+        "articulos": "No. Articulos"
+    },
+    "listarArticulos": {
+        "titulo": "Lista de Articulos",
+        "crearArticulo": "Crear Articulo"
+    },
+    "columnasArticulos": {
+        "ref": "Referencia",
+        "nombre": "nombre",
+        "precioSinImpuestos": "Precio sin impuestos"
+    },
+    "acciones": {
+        "verDetalle": "Ver Detalle",
+        "editar": "Editar",
+        "eliminar": "Eliminar"
+    }
+}

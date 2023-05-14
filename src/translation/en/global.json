@@ -1,0 +1,31 @@
+{
+    "home":{
+        "titulo":"Welcome to Centribal",
+        "btnPedido":"Order",
+        "btnArticulo":"Articles"
+    },
+    "listarPedidos": {
+        "titulo": "Order List",
+        "crearPedido": "Create Order"
+    },
+    "columnasPedidos": {
+        "id": "Order No.",
+        "precioTotalSinImpuestos": "Total Price (excluding taxes)",
+        "precioTotalConImpuestos": "Total Price (including taxes)",
+        "articulos": "Articles No."
+    },
+    "listarArticulos": {
+        "titulo": "Articles List",
+        "crearArticulo": "Create Article"
+    },
+    "columnasArticulos": {
+        "ref": "Reference",
+        "nombre": "name",
+        "precioSinImpuestos": "Price without tax"
+    },
+    "acciones": {
+        "verDetalle": "View Details",
+        "editar": "Edit",
+        "eliminar": "Delete"
+    }
+}
